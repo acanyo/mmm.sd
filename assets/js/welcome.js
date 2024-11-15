@@ -145,6 +145,9 @@ function showWelcome() {
                         case "洛阳市":
                             posdesc = "洛阳牡丹甲天下";
                             break;
+                        case "周口市":
+                            posdesc = "一起去喝逍遥镇！";
+                            break;
                         default:
                             posdesc = "可否带我品尝河南烩面啦？";
                             break;
