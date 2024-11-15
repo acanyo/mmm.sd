@@ -1,0 +1,69 @@
+   /*头像呼吸光环和鼠标悬停旋转放大*/
+    .avatar {
+        border-radius: 50%;
+        animation: light 4s ease-in-out infinite;
+        transition: 0.5s;
+    }
+/*     .avatar:hover {
+        transform: scale(1.15) rotate(720deg);
+    } */
+    @keyframes light {
+        0%{box-shadow: 0 0 4px #f00;}
+        25%{box-shadow: 0 0 16px #0f0;} 
+        50%{box-shadow: 0 0 4px #00f;}
+        75%{box-shadow: 0 0 16px #0f0;} 
+        100%{box-shadow: 0 0 4px #f00;}
+    }
+/*   body { --background: rgba(255,255,255,0.7) }   */
+  #welcome-info {
+    white-space: pre-wrap;
+    border-radius: 14px;
+    --kouseki-welcome-color: #3366ff;
+    --kouseki-ip-color: #3366ff;
+    --kouseki-gl-size: 16px!important;
+}
+  .baidu-search{
+                width: 100%;
+                padding-bottom: 6px;
+            }
+            .baidu-search_form{
+                position: relative;
+                box-sizing: border-box;
+                border: 1px solid var(--theme);
+                border-radius: 4px; 
+                margin-bottom:5px;
+                overflow: hidden;
+            }
+            .baidu-search_input{
+                border: none;
+                font-size: 16px!important;
+                font-weight: 100!important;
+                color: var(--main);
+                outline: none;
+                border-radius: 0;
+                padding: 9px 8px;
+                margin-bottom: -2px;
+                background-color: transparent!important;
+            }
+            .baidu-search_input:focus{
+                outline: none;
+            }
+            .baidu-search_submit{
+                position: absolute;
+                right:2px ;
+                top: 50%;
+                transform: translateY(-50%);
+                box-sizing: border-box;
+                border: none;
+                border-radius: 4px;
+                background-color: var(--theme);
+                color: #ffffff;
+                padding: 6px 8px;
+                cursor: pointer;
+            }
+            .baidu-search_tip{
+                font-size: 13px;
+                color: var(--minor);
+
+
+            }
