@@ -36,7 +36,7 @@ function showWelcome() {
         return;
     }
 
-    let dist = getDistance(119.61046, 39.9345, ipLocation.data.lng, ipLocation.data.lat); // 修改自己的经度（121.413921）纬度（31.089290）
+    let dist = getDistance(118.839900, 31.952600, ipLocation.data.lng, ipLocation.data.lat); // 修改自己的经度（121.413921）纬度（31.089290）
     let pos = ipLocation.data.country;
     let ip = ipLocation.ip;
     let posdesc;
