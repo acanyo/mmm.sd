@@ -2514,3 +2514,91 @@ p.p.gray,span.p.gray {
     --at-color-green: #4caf50;
     --at-color-gradient: linear-gradient(180deg, transparent, rgba(30, 34, 36, 1))
 }
+/*artalk 样式修改*/
+[data-theme=dark] .atk-comment-wrap {
+    border: 1px solid #3d3d3f !important;
+    border-radius: 12px !important;
+    margin-bottom: .5rem !important;
+    background-color: #1b1c20;
+}
+.atk-comment-wrap {
+    border: 1px solid #e3e8f7 !important;
+    border-radius: 12px !important;
+    margin-bottom: .5rem !important;
+}
+.atk-grp-switcher span{
+    padding: 0 .6rem !important;
+}
+[data-theme=dark] .atk-main-editor .atk-header input{
+    border-radius: 8px;
+    border: 1px solid #3d3d3f;
+    height: 34px;
+    padding: 0 .3rem;
+    margin: 0 .3rem;
+}
+.atk-main-editor .atk-header input{
+    border-radius: 8px;
+    border: 1px solid #3d3d3f;
+    height: 34px;
+    padding: 0 .3rem;
+    margin: 0 .3rem;
+}
+[data-theme=light] .atk-main-editor .atk-header input{
+    border-radius: 8px;
+    border: 1px solid #e3e8f7;;
+    height: 34px;
+    padding: 0 .3rem;
+    margin: 0 .3rem;
+}
+
+.atk-comment>.atk-main>.atk-body>.atk-reply-to{
+    border: 1px solid var(--at-color-border) !important;
+    border-radius: 8px;
+}
+.atk-comment>.atk-main>.atk-header .atk-date{
+    background: var(--heo-secondbg);
+    border: var(--style-border-always);
+    padding: 0 8px ;
+    border-radius: 8px;
+    margin-right: 4px !important;
+    color: var(--at-color-meta) !important;
+    display: inline !important;
+}
+
+.atk-comment>.atk-main>.atk-header .atk-ua-wrap .ua-browser,.ua-os, .atk-region-badge{
+    background: var(--heo-secondbg) !important;
+    border: var(--style-border-always) !important;
+    padding: 0 8px !important;
+    border-radius: 8px !important;
+    margin-right: 4px !important;
+    color: var(--at-color-meta) !important;
+    display: inline !important;
+}
+.atk-comment>.atk-main>.atk-header .atk-badge{
+    border: var(--style-border-always) !important;
+    padding: 0 8px !important;
+    border-radius: 8px !important;
+    margin-right: 4px !important;
+}
+.artalk pre code {
+    background: var(--heo-secondbg) !important;
+    border-radius: 12px;
+    border: var(--style-border-always);
+}
+.atk-comment-children>.atk-comment-wrap>.atk-comment {
+    padding: 6px !important;
+}
+.atk-comment>.atk-main>.atk-body>.atk-content a:not(.fancybox){
+    background: var(--heo-secondbg);
+    border: var(--style-border-always);
+    padding: 0 8px;
+    border-radius: 8px;
+    display: inline;
+}
+.atk-comment>.atk-main>.atk-body>.atk-content a:not(.fancybox)::after{
+    content: " 🔗";
+}
+.atk-comment>.atk-main>.atk-body>.atk-content img{
+    border-radius: 12px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
