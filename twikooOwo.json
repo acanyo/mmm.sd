@@ -1,0 +1,837 @@
+{
+  "<img src=\"https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/ablobcatheart.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">": {
+    "type": "image",
+    "container": [
+      {
+        "text": "aheart",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/ablobcatheart.png'>"
+      },
+      {
+        "text": "heartbroken",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/ablobcatheartbroken.png'>"
+      },
+      {
+        "text": "heart",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatheart.png'>"
+      },
+      {
+        "text": "affect",
+        "icon": "<img src='https://cdn.discordapp.com/emojis/696458935896375359.gif'>"
+      },
+      {
+        "text ": "pat",
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643514598/6020/meow_headache.png?1643514598'>"
+      },
+      {
+        "text": "heartpride",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatheartpride.png'>"
+      },
+      {
+        "text": "love",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatlove.png'>"
+      },
+      {
+        "text": "kissheart",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatkissheart.png'>"
+      },
+      {
+    "text": "acry",
+    "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/ablobcatcry.png'>"
+      },
+      {
+        "text": "adead",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/ablobcatdead.png'>"
+   },
+      {
+        "text": "snuggle",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatsnuggle.png'>"
+      },
+      {
+        "text": "comfyuee",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/comfyuee.png'>"
+      },
+      {
+        "text": "comfyslep",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/comfyslep.png'>"
+      },
+      {
+        "text": "comfynight",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/comfynight.png'>"
+      },
+      {
+        "text": "comfysweat",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatcomfysweat.png'>"
+      },
+      {
+        "text": "comfy",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatcomfy.png'>"
+      },
+      {
+        "text": "comftears",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatcomftears.png'>"
+      },
+      {
+        "text": "facepalm",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatfacepalm.png'>"
+      },
+      {
+        "text": "dizzy",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatdizzy.png'>"
+      },
+      {
+        "text": "0_0",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcat0_0.png'>"
+      },
+      {
+        "text": "angry",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatangry.png'>"
+      },
+      {
+        "text": "blush",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatblush.png'>"
+      },
+      {
+        "text": "coffee",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatcoffee.png'>"
+      },
+      {
+        "text": "cry",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatcry.png'>"
+      },
+      {
+        "text": "dead",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatdead.png'>"
+      },
+      {
+        "text": "died",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatdied.png'>"
+      },
+      {
+        "text": "disturbed",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatdisturbed.png'>"
+      },
+      {
+        "text": "fearful",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatfearful.png'>"
+      },
+      {
+        "text": "fingerguns",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatfingerguns.png'>"
+      },
+      {
+        "text": "flip",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatflip.png'>"
+      },
+      {
+        "text": "flower",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatflower.png'>"
+      },
+      {
+        "text": "gay",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatgay.png'>"
+      },
+      {
+        "text": "googlycry",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatgooglycry.png'>"
+      },
+      {
+        "text": "neutral",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatneutral.png'>"
+      },
+      {
+        "text": "openmouth",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatopenmouth.png'>"
+      },
+      {
+        "text": "sadreach",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatsadreach.png'>"
+      },
+      {
+        "text": "scared",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatscared.png'>"
+      },
+      {
+        "text": "nomblobcat",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatnomblobcat.png'>"
+      },
+      {
+        "text": "presentred",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatpresentred.png'>"
+      },
+      {
+        "text": "read",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatread.png'>"
+      },
+      {
+        "text": "sipsweat",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatsipsweat.png'>"
+      },
+      {
+        "text": "snapped",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatsnapped.png'>"
+      },
+      {
+        "text": "think",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatthink.png'>"
+      },
+      {
+        "text": "triumph",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcattriumph.png'>"
+      },
+      {
+        "text": "umm",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatumm.png'>"
+      },
+      {
+        "text": "verified",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatverified.png'>"
+      },
+      {
+        "text": "box",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatbox.png'>"
+      },
+      {
+        "text": "caged",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatcaged.png'>"
+      },
+      {
+        "text": "googlytrash",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatgooglytrash.png'>"
+      },
+      {
+        "text": "headphones",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatheadphones.png'>"
+      },
+      {
+        "text": "highfive",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcathighfive.png'>"
+      },
+      {
+        "text": "melt",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatmelt.png'>"
+      },
+      {
+        "text": "meltthumb",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatmeltthumb.png'>"
+      },
+      {
+        "text": "notlikethis",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatnotlikethis.png'>"
+      },
+      {
+        "text": "saitama",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatsaitama.png'>"
+      },
+      {
+        "text": "yandere",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatyandere.png'>"
+      },
+      {
+        "text": "peek2",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatpeek2.png'>"
+      },
+      {
+        "text": "peekaboo",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatpeekaboo.png'>"
+      },
+      {
+        "text": "photo",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatphoto.png'>"
+      },
+      {
+        "text": "attentionreverse",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/ablobcatattentionreverse.png'>"
+      },
+      {
+        "text": "reachrev",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/ablobcatreachrev.png'>"
+      },
+      {
+        "text": "wave",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/ablobcatwave.png'>"
+      },
+      {
+        "text": "alt",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatalt.png'>"
+      },
+      {
+        "text": "police",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatpolice.png'>"
+      },
+      {
+        "text": "shocked",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/blobcatshocked.png'>"
+      },
+      {
+        "text": "rainbow",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/ablobcatrainbow.png'>"
+      },
+      {
+        "text": "reeee",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/A_BlobCat_REEEE.png'>"
+      },
+      {
+        "text": "code",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/A_BlobCat_Code.png'>"
+      },
+      {
+        "text": "sweat",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/herwhiskers/blogPicBed@main/ablobcatknitsweats.png'>"
+      },
+      {
+        "text": "nervous",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/A_BlobCat_Nervous.png'>"
+      },
+      {
+        "text": "aww",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/herwhiskers/blogPicBed@main/blobcat-aww.png'>"
+      },
+      {
+        "text": "bounce",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/bouncefast.png'>"
+      }
+    ]
+  }
+},
+{
+      "<img src=\"https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/001.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">": {
+        "type": "image",
+        "container": [
+            {
+                "text": "azukisan-001",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/001.png'>"
+            },
+            {
+                "text": "azukisan-002",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/002.png'>"
+            },
+            {
+                "text": "azukisan-003",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/003.png'>"
+            },
+            {
+                "text": "azukisan-004",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/004.png'>"
+            },
+            {
+                "text": "azukisan-005",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/005.png'>"
+            },
+            {
+                "text": "azukisan-006",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/006.png'>"
+            },
+            {
+                "text": "azukisan-007",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/007.png'>"
+            },
+            {
+                "text": "azukisan-008",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/008.png'>"
+            },
+            {
+                "text": "azukisan-009",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/009.png'>"
+            },
+            {
+                "text": "azukisan-010",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/010.png'>"
+            },
+            {
+                "text": "azukisan-011",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/011.png'>"
+            },
+            {
+                "text": "azukisan-012",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/012.png'>"
+            },
+            {
+                "text": "azukisan-013",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/013.png'>"
+            },
+            {
+                "text": "azukisan-014",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/014.png'>"
+            },
+            {
+                "text": "azukisan-015",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/015.png'>"
+            },
+            {
+                "text": "azukisan-016",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/016.png'>"
+            },
+            {
+                "text": "azukisan-017",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/017.png'>"
+            },
+            {
+                "text": "azukisan-018",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/018.png'>"
+            },
+            {
+                "text": "azukisan-019",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/019.png'>"
+            },
+            {
+                "text": "azukisan-020",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/020.png'>"
+            },
+            {
+                "text": "azukisan-021",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/021.png'>"
+            },
+            {
+                "text": "azukisan-022",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/022.png'>"
+            },
+            {
+                "text": "azukisan-023",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/023.png'>"
+            },
+            {
+                "text": "azukisan-024",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/024.png'>"
+            },
+            {
+                "text": "azukisan-025",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/025.png'>"
+            },
+            {
+                "text": "azukisan-026",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/026.png'>"
+            },
+            {
+                "text": "azukisan-027",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/027.png'>"
+            },
+            {
+                "text": "azukisan-028",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/028.png'>"
+            },
+            {
+                "text": "azukisan-029",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/029.png'>"
+            },
+            {
+                "text": "azukisan-030",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/030.png'>"
+            },
+            {
+                "text": "azukisan-031",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/031.png'>"
+            },
+            {
+                "text": "azukisan-032",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/032.png'>"
+            },
+            {
+                "text": "azukisan-033",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/033.png'>"
+            },
+            {
+                "text": "azukisan-034",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/034.png'>"
+            },
+            {
+                "text": "azukisan-035",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/035.png'>"
+            },
+            {
+                "text": "azukisan-036",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/036.png'>"
+            },
+            {
+                "text": "azukisan-037",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/037.png'>"
+            },
+            {
+                "text": "azukisan-038",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/038.png'>"
+            },
+            {
+                "text": "azukisan-039",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/039.png'>"
+            },
+            {
+                "text": "azukisan-040",
+                "icon": "<img src='https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/040.png'>"
+            }
+        ]
+    }
+},
+{
+      "<img src=\"https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-2.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">": {
+        "type": "image",
+        "container": [
+            {"text": "dokomo-1", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-1.png'>"},
+            {"text": "dokomo-2", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-2.png'>"},
+            {"text": "dokomo-3", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-3.png'>"},
+            {"text": "dokomo-4", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-4.png'>"},
+            {"text": "dokomo-5", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-5.png'>"},
+            {"text": "dokomo-6", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-6.png'>"},
+            {"text": "dokomo-7", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-7.png'>"},
+            {"text": "dokomo-8", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-8.png'>"},
+            {"text": "dokomo-9", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-9.png'>"},
+            {"text": "dokomo-10", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-10.png'>"},
+            {"text": "dokomo-11", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-11.png'>"},
+            {"text": "dokomo-12", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-12.png'>"},
+            {"text": "dokomo-13", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-13.png'>"},
+            {"text": "dokomo-14", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-14.png'>"},
+            {"text": "dokomo-15", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-15.png'>"},
+            {"text": "dokomo-16", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-16.png'>"},
+            {"text": "dokomo-17", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-17.png'>"},
+            {"text": "dokomo-18", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-18.png'>"},
+            {"text": "dokomo-19", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-19.png'>"},
+            {"text": "dokomo-20", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-20.png'>"},
+            {"text": "dokomo-21", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-21.png'>"},
+            {"text": "dokomo-22", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-22.png'>"},
+            {"text": "dokomo-23", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-23.png'>"},
+            {"text": "dokomo-24", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-24.png'>"},
+            {"text": "dokomo-25", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-25.png'>"},
+            {"text": "dokomo-26", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-26.png'>"},
+            {"text": "dokomo-27", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-27.png'>"},
+            {"text": "dokomo-28", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-28.png'>"},
+            {"text": "dokomo-29", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-29.png'>"},
+            {"text": "dokomo-30", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-30.png'>"},
+            {"text": "dokomo-31", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-31.png'>"},
+            {"text": "dokomo-32", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-32.png'>"},
+            {"text": "dokomo-33", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-33.png'>"},
+            {"text": "dokomo-34", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-34.png'>"},
+            {"text": "dokomo-35", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-35.png'>"},
+            {"text": "dokomo-36", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-36.png'>"},
+            {"text": "dokomo-37", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-37.png'>"},
+            {"text": "dokomo-38", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-38.png'>"},
+            {"text": "dokomo-39", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-39.png'>"},
+            {"text": "dokomo-40", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-40.png'>"},
+            {"text": "dokomo-41", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-41.png'>"},
+            {"text": "dokomo-42", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-42.png'>"},
+            {"text": "dokomo-43", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-43.png'>"},
+            {"text": "dokomo-44", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-44.png'>"},
+            {"text": "dokomo-45", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-45.png'>"},
+            {"text": "dokomo-46", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-46.png'>"},
+            {"text": "dokomo-47", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-47.png'>"},
+            {"text": "dokomo-48", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-48.png'>"},
+            {"text": "dokomo-49", "icon": "<img src='https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/dokomo/dokomo-49.png'>"}
+        ]
+    }
+},
+{
+    "<img src=\"https://bu.dusays.com/2021/06/20/df86832b6b15c.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">": {
+    "type": "image",
+    "container": [
+      {
+        "text": "Heo-不好意思",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/df86832b6b15c.png'>"
+      },
+      {
+        "text": "Heo-亲亲",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/be223b461728b.png'>"
+      },
+      {
+        "text": "Heo-倚墙笑",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/1d5e5e43908ef.png'>"
+      },
+      {
+        "text": "Heo-偷偷看",
+        "icon": "<img src='https://bu.dusays.com/2021/03/03/23589adc7a4a4.png'>"
+      },
+      {
+        "text": "Heo-再见",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/ac35c46f76c1e.png'>"
+      },
+      {
+        "text": "Heo-出家人",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/280e24de5a0b0.png'>"
+      },
+      {
+        "text": "Heo-加班",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/5526731aecc99.png'>"
+      },
+      {
+        "text": "Heo-勉强笑",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/3e74e04bc1897.png'>"
+      },
+      {
+        "text": "Heo-危险",
+        "icon": "<img src='https://bu.dusays.com/2021/03/03/e69b4c6667211.png'>"
+      },
+      {
+        "text": "Heo-发红包",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/756b34aaabc07.png'>"
+      },
+      {
+        "text": "Heo-吃瓜",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/7f7eade77a8f6.png'>"
+      },
+      {
+        "text": "Heo-吐血",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/6239ca43a3811.png'>"
+      },
+      {
+        "text": "Heo-吵架",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/2f3475fbf219b.png'>"
+      },
+      {
+        "text": "Heo-呲牙笑",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/7147d44ae5a2b.png'>"
+      },
+      {
+        "text": "Heo-哈士奇",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/7298738b874c8.png'>"
+      },
+      {
+        "text": "Heo-哈士奇失去意识",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/e25d7d49a3c7a.png'>"
+      },
+      {
+        "text": "Heo-哭泣",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/b962166603477.png'>"
+      },
+      {
+        "text": "Heo-唱歌",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/1e1b569608519.png'>"
+      },
+      {
+        "text": "Heo-喜欢",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/521eb3f7b9740.png'>"
+      },
+      {
+        "text": "Heo-大笑",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/9ddf588f5c013.png'>"
+      },
+      {
+        "text": "Heo-头秃",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/400c0cafa0186.png'>"
+      },
+      {
+        "text": "Heo-奋斗",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/19366bf1eec4a.png'>"
+      },
+      {
+        "text": "Heo-好奇",
+        "icon": "<img src='https://bu.dusays.com/2021/03/03/e511960ac5488.png'>"
+      },
+      {
+        "text": "Heo-好的",
+        "icon": "<img src='https://bu.dusays.com/2021/03/03/36cd0dfe7cbcd.png'>"
+      },
+      {
+        "text": "Heo-害羞",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/cd1e9af4ef989.png'>"
+      },
+      {
+        "text": "Heo-小丑",
+        "icon": "<img src='https://bu.dusays.com/2021/03/03/0c38b7f23c92f.png'>"
+      },
+      {
+        "text": "Heo-尴尬",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/2ec12e7e8a08a.png'>"
+      },
+      {
+        "text": "Heo-应援",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/102f3cc6fbc2e.png'>"
+      },
+      {
+        "text": "Heo-开心",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/eba6d26a9fdeb.png'>"
+      },
+      {
+        "text": "Heo-引起不适",
+        "icon": "<img src='https://bu.dusays.com/2021/03/03/530db42eb8977.png'>"
+      },
+      {
+        "text": "Heo-微笑",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/fb09457ea2124.png'>"
+      },
+      {
+        "text": "Heo-思考",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/2bc94bd142ed1.png'>"
+      },
+      {
+        "text": "Heo-恶心",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/b08be4edbabff.png'>"
+      },
+      {
+        "text": "Heo-惊吓",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/1bcae57ceeab2.png'>"
+      },
+      {
+        "text": "Heo-惊讶",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/daaa31ba4045e.png'>"
+      },
+      {
+        "text": "Heo-感动",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/0e39a98659dc2.png'>"
+      },
+      {
+        "text": "Heo-愤怒",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/e3c0dbc8a3cb8.png'>"
+      },
+      {
+        "text": "Heo-我看好你",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/25df943be1b38.png'>"
+      },
+      {
+        "text": "Heo-打牌",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/01614b05d153f.png'>"
+      },
+      {
+        "text": "Heo-抠鼻",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/2414e941e2fad.png'>"
+      },
+      {
+        "text": "Heo-捂嘴笑",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/f577030b8234f.png'>"
+      },
+      {
+        "text": "Heo-捂脸",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/7ed21fb216990.png'>"
+      },
+      {
+        "text": "Heo-擦汗",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/67a2e5306ed5b.png'>"
+      },
+      {
+        "text": "Heo-月饼",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/77fc9c71f09c0.png'>"
+      },
+      {
+        "text": "Heo-滑稽",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/50b1264f04b56.png'>"
+      },
+      {
+        "text": "Heo-滑稽喝水",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/9ea1e48ab255a.png'>"
+      },
+      {
+        "text": "Heo-滑稽狂汗",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/e03739479d7ab.png'>"
+      },
+      {
+        "text": "Heo-滑稽被子",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/719555d4f772e.png'>"
+      },
+      {
+        "text": "Heo-烦恼",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/a5790507af523.png'>"
+      },
+      {
+        "text": "Heo-熊猫",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/a4339ab27bf03.png'>"
+      },
+      {
+        "text": "Heo-熊猫唱歌",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/085dbade56cd9.png'>"
+      },
+      {
+        "text": "Heo-熊猫喜欢",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/5aef2d8b4d412.png'>"
+      },
+      {
+        "text": "Heo-熬夜",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/e47157d493cc9.png'>"
+      },
+      {
+        "text": "Heo-爆炸",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/986c19ad55b06.png'>"
+      },
+      {
+        "text": "Heo-牛年进宝",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/d097d61e14352.png'>"
+      },
+      {
+        "text": "Heo-狗头",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/a9de5641f2f12.png'>"
+      },
+      {
+        "text": "Heo-狗头围脖",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/cf3d368869087.png'>"
+      },
+      {
+        "text": "Heo-狗头胖次",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/b7876d5187f38.png'>"
+      },
+      {
+        "text": "Heo-狗头花",
+        "icon": "<img src='https://bu.dusays.com/2021/03/03/365c96d0cdf9a.png'>"
+      },
+      {
+        "text": "Heo-狗头草",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/7289ff045fa7b.png'>"
+      },
+      {
+        "text": "Heo-生病",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/8cb07325d222a.png'>"
+      },
+      {
+        "text": "Heo-疑问",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/3a9af7bdde89c.png'>"
+      },
+      {
+        "text": "Heo-疼痛",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/cd81300bb9504.png'>"
+      },
+      {
+        "text": "Heo-看穿一切",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/4ef17b102cf82.png'>"
+      },
+      {
+        "text": "Heo-眩晕",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/beddf6d5781ae.png'>"
+      },
+      {
+        "text": "Heo-睡觉",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/52bcbb1dbd137.png'>"
+      },
+      {
+        "text": "Heo-禁言",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/629ff02e1ac84.png'>"
+      },
+      {
+        "text": "Heo-笑哭",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/4b6a42f93fd00.png'>"
+      },
+      {
+        "text": "Heo-纠结",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/05efa11c9f881.png'>"
+      },
+      {
+        "text": "Heo-绿帽",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/de2ca6cf8f630.png'>"
+      },
+      {
+        "text": "Heo-耍酷",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/7597ba5881d5e.png'>"
+      },
+      {
+        "text": "Heo-菜狗",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/cdde086e070d6.png'>"
+      },
+      {
+        "text": "Heo-被打",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/1133123b9350f.png'>"
+      },
+      {
+        "text": "Heo-送福",
+        "icon": "<img src='https://bu.dusays.com/2021/02/20/f3c1f9a4f8d90.png'>"
+      },
+      {
+        "text": "Heo-阴险",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/abc53622a22a6.png'>"
+      },
+      {
+        "text": "Heo-难以置信",
+        "icon": "<img src='https://bu.dusays.com/2021/06/20/a20126813513d.png'>"
+      },
+      {
+        "text": "Heo-鬼脸",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/ae60cf90588c8.png'>"
+      },
+      {
+        "text": "Heo-鼓掌",
+        "icon": "<img src='https://bu.dusays.com/2021/01/16/57ab92493212f.png'>"
+      }
+    ]
+  }
+}
