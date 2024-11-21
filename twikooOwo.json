@@ -1,5 +1,5 @@
 {
-  "<img src=\"https://cdn.jsdelivr.net/gh/infinitesum/Twikoo-emoji@master/Blob/ablobcatheart.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">": {
+  "bochi": {
     "type": "image",
     "container": [
       {
@@ -294,7 +294,7 @@
   }
 },
 {
-      "<img src=\"https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/001.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">": {
+      "Saidosi": {
         "type": "image",
         "container": [
             {
@@ -517,7 +517,7 @@
     }
 },
 {
-    "<img src=\"https://bu.dusays.com/2021/06/20/df86832b6b15c.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">": {
+    "Heo": {
     "type": "image",
     "container": [
       {
