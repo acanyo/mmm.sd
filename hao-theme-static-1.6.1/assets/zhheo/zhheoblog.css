@@ -6602,6 +6602,7 @@ body[data-type=music] .page #nav #site-name span {
     margin-top: 0.5rem;
     display: flex;
     flex-direction: column;
+      z-index: -1;
     /* z-index: 1002; */
 }
 
@@ -10551,7 +10552,7 @@ a.extend.prev {
     align-self: flex-start;
     animation: slide-in .6s .1s backwards;
     position: relative;
-    overflow: hidden
+    overflow: visible
 }
 
 #tag {
