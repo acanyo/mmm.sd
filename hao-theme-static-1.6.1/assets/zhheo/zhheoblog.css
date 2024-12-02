@@ -6602,7 +6602,8 @@ body[data-type=music] .page #nav #site-name span {
     margin-top: 0.5rem;
     display: flex;
     flex-direction: column;
-    /* z-index: 1002; */
+     /*  z-index: -1;
+    z-index: 1002; */
 }
 
 @media screen and (max-width: 768px) {
@@ -18967,3 +18968,123 @@ div#equipment {
 #aside-content #card-toc .toc-content .toc-link:hover {
     background: var(--heo-main-op-light)
 }
+
+/*友链自助提交插件适配样式 start*/
+
+#friends-link-self-submit{
+    margin: -15px 0 8px;
+    padding: 5px 0 8px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+@media screen and (max-width: 500px) {
+    #friends-link-self-submit .right-select-condition #friendlink_checkboxs{
+        width: 100% !important;
+    }
+    #friends-link-self-submit .left-link-info .personal-links-info .logo-inline span{
+        width: 210px;
+        height: 30px;
+        overflow-x: scroll;
+        overflow-x: hidden;
+    }
+}
+#friends-link-self-submit .left-link-info .headline{
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: var(--heo-fontcolor);
+}
+#friends-link-self-submit .left-link-info .personal-links-info{
+    width: fit-content;
+    padding: 2px 16px 4px;
+    margin: 0 0 15px;
+    border: 1px solid var(--style-border-always);
+    box-shadow: var(--heo-shadow-border);
+    border-radius: 12px;
+    background: var(--heo-card-bg);
+}
+
+#friends-link-self-submit .left-link-info .personal-links-info .inline-msg{
+    display: flex;
+    height: 28px;
+    margin: 16px 0;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 16px;
+    transition: .8s;
+}
+#friends-link-self-submit .left-link-info .personal-links-info .inline-msg span{
+    font-size: 13px;
+    margin-left: 6px;
+    background: var(--heo-secondbg);
+    padding: 2px 8px;
+    border-radius: 12px;
+}
+#friends-link-self-submit .left-link-info .personal-links-info .inline-msg:hover{
+    color: var(--heo-theme);
+    transition: .8s;
+}
+#friends-link-self-submit .left-link-info .personal-links-info .inline-msg .copy-btn{
+    width: 28px;
+    height: 28px;
+    padding: 5px;
+    margin-left: 6px;
+    background: var(--heo-secondbg);
+    border-radius: 50%;
+    box-shadow: var(--heo-shadow-border);
+    vertical-align: middle;
+    appearance: none;
+    transition: .7s;
+}
+#friends-link-self-submit .left-link-info .personal-links-info .inline-msg .copy-btn:hover{
+    color: var(--heo-theme);
+    cursor: pointer;
+}
+
+#friends-link-self-submit .left-link-info .personal-links-info .inline-msg .copy-tips-box{
+    font-size: 14px;
+    transition: .8s;
+}
+
+/*右侧自助提交选择框样式*/
+#friends-link-self-submit .right-select-condition{
+    margin-left: 20px;
+    margin-top: 0;
+}
+
+#friends-link-self-submit .right-select-condition .tips{
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    margin: 20px 0 14px;
+}
+#friends-link-self-submit .right-select-condition #friendlink_checkboxs{
+    width: fit-content;
+    padding: 6px 16px;
+    margin: 0 0 15px;
+    border: 1px solid var(--style-border-always);
+    box-shadow: var(--heo-shadow-border);
+    border-radius: 8px;
+    background: var(--heo-card-bg);
+}
+#friends-link-self-submit  #friendlink_checkboxs .self-submit-checkbox{
+    display: flex;
+    height: 28px;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 16px 0;
+}
+#friends-link-self-submit  #friendlink_checkboxs .self-submit-checkbox .origin-checkbox{
+   display: block;
+   border-radius: 3px;
+   border: 1px solid var(--style-border);
+}
+#friends-link-self-submit  #friendlink_checkboxs .self-submit-checkbox span{
+    margin-left: 8px;
+    font-size: 14px;
+    background-color: var(--heo-secondbg);
+    border-radius: 12px;
+    padding: 0 8px;
+}
+
+/*友链自助提交插件适配样式 end*/
